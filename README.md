@@ -6,10 +6,10 @@ This project provides a basic CRUD (Create, Read, Update, Delete) system using P
 
 ## CRUD Operation
 
-create.php – create or add new for data records
-read.php - read data records
-update.php – Update existing records.
-delete.php – Delete records.
+- create.php – create or add new for data records
+- read.php - read data records
+- update.php – Update existing records.
+- delete.php – Delete records.
 
 for manage customer, manage products and manage orders.
 
@@ -20,7 +20,7 @@ for manage customer, manage products and manage orders.
 
 ## Setup & Configuration (DB)
 
-Edit config.php to match your hosting
+Edit db.php to match your hosting
 
 ```
 <?php
